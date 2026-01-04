@@ -1,0 +1,7 @@
+{
+  "name": "Cypher Converts",
+  "description": "A universal file and data converter powered by Gemini. Transform code, data formats, text, and images with futuristic precision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
